@@ -1,30 +1,27 @@
 const INFO = {
 	main: {
-		title: "Reactfolio by truethari",
-		name: "Tharindu N.",
-		email: "mail@tharindu.dev",
-		logo: "../logo.png",
+		title: "Rizqon Maulana",
+		name: "Rizqon Maulana",
+		email: "rizqonmaulana5@gmail.com",
+		logo: "../logo.jpeg",
 	},
 
 	socials: {
-		twitter: "https://twitter.com/",
-		github: "https://github.com/",
-		linkedin: "https://linkedin.com/",
-		instagram: "https://instagram.com/",
-		stackoverflow: "https://stackoverflow.com/",
-		facebook: "https://facebook.com/",
+		github: "https://github.com/rizqonmaulana",
+		linkedin: "https://www.linkedin.com/in/rizqonmaulana/",
+		instagram: "https://instagram.com/rizqonmaulanaa",
 	},
 
 	homepage: {
-		title: "Full-stack web and mobile app developer, and amateur astronaut.",
+		title: "Rizqon Maulana | Software Developer",
 		description:
-			"I am a backend developer with expertise in Node.js. I have experience in building scalable, secure and reliable web applications using various frameworks and technologies. I enjoy solving complex problems and learning new skills. I am passionate about creating high-quality code that follows best practices and industry standards. I am always looking for new challenges and opportunities to grow as a developer.",
+			"Welcome to my digital space! I'm Rizqon Maulana, a software developer with three years of hands-on experience. From backend wizardry with Node.js to crafting seamless frontend and mobile experiences, I thrive on transforming challenges into innovative solutions. My journey in software development has been diverse, working on various projects and adapting to evolving technologies. Passionate about writing top-notch code that adheres to industry standards, I'm here to bring creativity and functionality together. Whether you're looking for a reliable developer or just exploring the tech world, let's connect and code the future!",
 	},
 
 	about: {
-		title: "I’m Tharindu N. I live in Sri Lanka, where I design the future.",
+		title: "I’m Rizqon Maulana. I live in Indonesia, where I design the future.",
 		description:
-			"I've worked on a variety of projects over the years and I'm proud of the progress I've made. Many of these projects are open-source and available for others to explore and contribute to. If you're interested in any of the projects I've worked on, please feel free to check out the code and suggest any improvements or enhancements you might have in mind. Collaborating with others is a great way to learn and grow, and I'm always open to new ideas and feedback.",
+			"I'm Rizqon Maulana, a passionate software developer with a journey spanning three years in the dynamic world of technology. From my early days coding to becoming a seasoned developer, my love for creating digital solutions has only deepened. With a focus on both backend and frontend development, as well as mobile applications, I've had the privilege of working on diverse projects that have shaped my skills and fueled my curiosity. My approach to software development is rooted in a commitment to excellence, industry best practices, and a relentless pursuit of innovation. Each project is a unique opportunity to explore, learn, and contribute to the ever-evolving landscape of technology. As you navigate through my digital space, I invite you to learn more about my professional journey, the projects I've been a part of, and my vision for the future of software development. Let's connect and explore the possibilities together!"		
 	},
 
 	articles: {
